@@ -598,7 +598,7 @@ This cyber warfare framework is licensed under the **MIT License** - see the [LI
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   
 ```
 
-### 🌟 ELITE HACKERS - STAR THIS REPOSITORY!
+
 
 [![GitHub stars](https://img.shields.io/github/stars/Prateek-glitch/esp8266-captive-portal?style=social)](https://github.com/Prateek-glitch/esp8266-captive-portal/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Prateek-glitch/esp8266-captive-portal?style=social)](https://github.com/Prateek-glitch/esp8266-captive-portal/network)
